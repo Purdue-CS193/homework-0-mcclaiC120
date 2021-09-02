@@ -1,4 +1,22 @@
-## Welcome to GitHub Pages 
+## Colin McClain's First CS193 Homework
+
+#Favorite things About CS 193
+- Learning to code/ use tools
+- Getting to know people I will be working with
+- Seeing all of my CS classes starting to make a tiny bit of sense
+- Being interacted with in class with the fun presentations
+
+
+
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -10,7 +28,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-This is a test 
+
 # Header 1
 ## Header 2
 ### Header 3
@@ -25,6 +43,10 @@ This is a test
 
 [Link](url) and ![Image](src)
 ```
+
+
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
