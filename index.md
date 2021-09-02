@@ -1,10 +1,10 @@
 ## Colin McClain's First CS193 Homework
 
 #Favorite things About CS 193
-- Learning to code/ use tools
-- Getting to know people I will be working with
-- Seeing all of my CS classes starting to make a tiny bit of sense
-- Being interacted with in class with the fun presentations
+- Learning to code/ use tools.
+- Getting to know people I will be working with.
+- Seeing all of my CS classes starting to make a tiny bit of sense.
+- Being interacted with in class with the fun presentations.
 
 
 
